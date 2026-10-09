@@ -16,6 +16,6 @@
     * But this also asks which template you want or which typescript or javascript you want. learn about these also
 
 * After that run this command to start the application
-    cd my-react-app
-    npm install
-    npm run dev
+    * cd my-react-app
+    * npm install
+    * npm run dev
