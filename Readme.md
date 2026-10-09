@@ -19,3 +19,9 @@
     * cd my-react-app
     * npm install
     * npm run dev
+
+## C. PROJECT FLOW
+* Index.html >> src/main.tsx >> src/App.tsx. (They call in this way)
+* Assets - contains the images
+* vite.config.ts contains the localhost port and other configuration details
+
